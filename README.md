@@ -3,7 +3,7 @@
 
 <img height="50" src="https://cybergeeks.in/content/images/2015/12/about.png"/>
 
-<h4>I'm pursuing Mechanical engineering at <b>SONA College Of Technology</b> and I am the highest rated competitive programmer in my college.</h4>
+<h4>I'm pursuing Mechanical engineering at <a href="https://www.sonatech.ac.in/" target="_blank"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sona_College_of_Teachnology.jpg"/> </a> and I am the highest rated competitive programmer in my college.</h4>
 <ul>
   <li>Competitive programmer @Codechef,Codeforces,Leetcode,Hackerrank,Atcoder.</li>
   <li>Two times winner:trophy: in intra college competitive coding competion.</li>
