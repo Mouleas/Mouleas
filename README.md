@@ -34,7 +34,7 @@
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>
 
 <h3>Github streak:hourglass_flowing_sand:</h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M0u1ea5&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M0u1ea5&theme=dracula)](https://git.io/streak-stats)
 
 
 
