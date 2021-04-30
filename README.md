@@ -7,5 +7,5 @@
   <li>Two times winner:trophy: in intra college competitive coding competion</li>
   <li>Third prize:trophy: in national level animation Hackathon</li>
   <li>I have good knowledge in DSAlgo:memo:</li>
-  <li>Learning flutter SDK:iphone:and Data Science:computer:</li>
+  <li>Learning flutter SDK:iphone: and Data Science:computer:</li>
 </ul>
