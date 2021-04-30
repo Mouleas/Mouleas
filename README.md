@@ -22,3 +22,12 @@
 <a href="https://codeforces.com/profile/M0u1ea5/" target="_blank"> <img height="22" width="135" style="clip-path: rect(10px, 0px, 0px, 0px);" src="https://user-images.githubusercontent.com/66675130/105478796-a7e64500-5cc9-11eb-9ea6-f00d574dd208.png"/> </a>
 <a href="https://leetcode.com/M0u1ea5/" target="_blank"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1024px-LeetCode_Logo_black_with_text.svg.png"/></a>
 <a href="https://www.hackerrank.com/heshma27/" target="_blank"> <img height="27" src="https://user-images.githubusercontent.com/66675130/105476483-b121e280-5cc6-11eb-8280-680a10fe2880.png">
+ 
+<h3>Language and tools:hammer_and_wrench:</h3>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+<img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png"/>
+<img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
+<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
+<img width="45" height="45" hspace="10" src="https://raw.githubusercontent.com/duythien0912/flutter_zalo_login/master/flutter.jpeg"/>
