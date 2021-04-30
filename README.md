@@ -1,10 +1,3 @@
 <h1 align="center"> Hello👋 This is Mouleaswar:exclamation: <br></br>
 <h2 align="center"> Competitive Programmer :computer:</h2>
-<img align="left" width="190" height="200" src="https://img.pngio.com/about-me-png-97-images-in-collection-page-2-about-me-png-267_189.png"/>
-<h3>Get to know me :dart: </h3>
-- Competitive Programmer @ CodeForces, Hackerrank and CodeChef
-- BE Computer Science Student @ PSG College of Technology
-- Working on Front-End Web development projects
-- Learning and Working on iOS development
-- Eager to work on open source projects
-- Hoping to work on Android and Django
+<img width="160" height="200" hspace="10" src="https://thumbnail.imgbin.com/19/19/21/imgbin-about-me-learning-others-qn8um2wRWfAZPPHsVk0Jktk6E_t.jpg"/>
