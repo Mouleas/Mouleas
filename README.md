@@ -3,7 +3,8 @@
 
 <img height="50" src="https://cybergeeks.in/content/images/2015/12/about.png"/>
 
-<h4>I'm pursuing Mechanical engineering at <a href="https://www.sonatech.ac.in/" target="_blank"> <img height="30" width = "150" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sona_College_of_Teachnology.jpg"/> </a> and I am the highest rated competitive programmer in my college.</h4>
+<h2>I'm pursuing Mechanical engineering at <a href="https://www.sonatech.ac.in/" target="_blank"> <img height="30" width = "120" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sona_College_of_Teachnology.jpg"/> </a> and I am the highest rated competitive programmer in my college.</h2>
+
 <ul>
   <li>Competitive programmer @Codechef,Codeforces,Leetcode,Hackerrank,Atcoder.</li>
   <li>Two times winner:trophy: in intra college competitive coding competion.</li>
