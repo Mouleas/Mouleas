@@ -10,6 +10,8 @@
   <li>Learning flutter SDK:iphone: and Data Science:computer:.</li>
 </ul>
 <h3>Contact Info:telephone:</h3>
-<a href="https://www.linkedin.com/in/mouleaswar-shanmugam-747ba11b8/" target="_blank"> <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="mailto:warmouleas@gmail.com" target="_blank"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a>
-<a href="https://www.instagram.com/m0u1ea5/" target="_blank"> <img height="30" width="100" src="https://image.shutterstock.com/image-photo/kiev-ukraine-may-14-2016-260nw-420683950.jpg"> </a>
+<ul>
+  <li><a href="https://www.linkedin.com/in/mouleaswar-shanmugam-747ba11b8/" target="_blank"> <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a></li>
+   <li><a href="mailto:warmouleas@gmail.com" target="_blank"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a></li>
+  <li><a href="https://www.instagram.com/m0u1ea5/" target="_blank"> <img height="30" width="100" src="https://image.shutterstock.com/image-photo/kiev-ukraine-may-14-2016-260nw-420683950.jpg"> </a></li>
+</ul>
