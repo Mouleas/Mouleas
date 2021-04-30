@@ -33,7 +33,10 @@
 <img width="45" height="45" hspace="10" src="https://raw.githubusercontent.com/duythien0912/flutter_zalo_login/master/flutter.jpeg"/>
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M0u1ea5&theme=blue-green)](https://git.io/streak-stats)
+<h3>Github stats</h3>
+![Mouleas's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0u1ea5&show_icons=true&theme=tokyonight)
+<h3>Github streak:hourglass_flowing_sand:</h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M0u1ea5&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
 
 
