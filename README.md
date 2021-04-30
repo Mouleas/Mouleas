@@ -1,7 +1,7 @@
 <h1 align="center"> Hello👋 This is Mouleaswar:exclamation: <br></br>
 <h2 align="center"> Competitive Programmer and Open source contributor:computer:</h2>
 
-<img height="45" src="https://cybergeeks.in/content/images/2015/12/about.png"/>
+<img height="50" src="https://cybergeeks.in/content/images/2015/12/about.png"/>
 
 <h4>I'm pursuing Mechanical engineering at <b>SONA College Of Technology</b> and I am the highest rated competitive programmer in my college.</h4>
 <ul>
