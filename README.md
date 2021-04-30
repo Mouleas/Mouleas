@@ -1,9 +1,11 @@
 <h1 align="center"> Hello👋 This is Mouleaswar:exclamation: <br></br>
 <h2 align="center"> Competitive Programmer and open source contributor:computer:</h2>
 <h2>About me</h2>
-- Competitive Programmer @ CodeForces, Hackerrank and CodeChef
-- BE Computer Science Student @ PSG College of Technology
-- Working on Front-End Web development projects
-- Learning and Working on iOS development
-- Eager to work on open source projects
-- Hoping to work on Android and Django
+<h4>I'm pursuing Mechanical engineering at SONA College Of Technology and I am the highest rated competitive programmer in my college</h4>
+<ul>
+  <li>Competitive programmer @Codechef,Codeforces,Leetcode,Hackerrank,Atcoder</li>
+  <li>Two times winner:trophy: in intra college competitive coding competion</li>
+  <li>Third prize:trophy: in national level animation Hackathon</li>
+  <li>I have good knowledge in DSAlgo:memo:</li>
+  <li>Learning flutter SDK:iphone:and Data Science:computer:</li>
+</ul>
