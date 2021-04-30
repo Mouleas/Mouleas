@@ -18,4 +18,4 @@
 
 
 <h3>Profiles:boy:</h3>
-<a href="https://www.codechef.com/users/mouleas14/" target="_blank"> <img height="30" src="https://user-images.githubusercontent.com/66675130/105477250-9f8d0a80-5cc7-11eb-8e88-9e4ca0122ce4.png"/> </a>
+<a href="https://www.codechef.com/users/mouleas14/" target="_blank"> <img height="35" src="https://user-images.githubusercontent.com/66675130/105477250-9f8d0a80-5cc7-11eb-8e88-9e4ca0122ce4.png"/> </a>
