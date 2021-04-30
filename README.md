@@ -1,6 +1,8 @@
 <h1 align="center"> Hello👋 This is Mouleaswar:exclamation: <br></br>
 <h2 align="center"> Competitive Programmer and Open source contributor:computer:</h2>
-<h2>About me</h2>
+
+<img height="35" src="https://e7.pngegg.com/pngimages/572/408/png-clipart-about-me-logo-social-media-online-identity-me-blue-text.png"/>
+
 <h4>I'm pursuing Mechanical engineering at <b>SONA College Of Technology</b> and I am the highest rated competitive programmer in my college.</h4>
 <ul>
   <li>Competitive programmer @Codechef,Codeforces,Leetcode,Hackerrank,Atcoder.</li>
