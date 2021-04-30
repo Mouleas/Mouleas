@@ -34,7 +34,7 @@
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>
 <h3>Github stats:dart:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Mouleas's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0u1ea5&show_icons=true&theme=radical)
 
 <h3>Github streaks:hourglass_flowing_sand:</h3>
 
