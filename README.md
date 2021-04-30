@@ -37,8 +37,7 @@
 ![Mouleas's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0u1ea5&show_icons=true&theme=radical)
 
 <h3>Github streaks:hourglass_flowing_sand:</h3>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M0u1ea5&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M0u1ea5&theme=gotham)](https://git.io/streak-stats)
 
 
 
