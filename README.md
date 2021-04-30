@@ -40,15 +40,15 @@
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>
 <img width="45" height="45" hspace="10" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/>
 
-<h3>Github stats:dart:</h3>
-
 ---
+
+<h3>Github stats:dart:</h3>
 
 ![Mouleas's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0u1ea5&show_icons=true&theme=radical)
 
-<h3>Github streaks:hourglass_flowing_sand:</h3>
-
 ---
+
+<h3>Github streaks:hourglass_flowing_sand:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M0u1ea5&theme=gotham)](https://git.io/streak-stats)
 
