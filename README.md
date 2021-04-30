@@ -1,9 +1,9 @@
 <h1 align="center"> Hello👋 This is Mouleaswar:exclamation: <br></br>
-<h2 align="center"> Competitive Programmer and Open source contributor:computer:</h2>
+<h2 align="center"> Competitive Programmer:bar_chart: and Open source contributor:computer:</h2>
 
 <img height="50" src="https://cybergeeks.in/content/images/2015/12/about.png"/>
 
-<h2>I'm pursuing Mechanical engineering at <a href="https://www.sonatech.ac.in/" target="_blank"> <img height="30" width = "120" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sona_College_of_Teachnology.jpg"/> </a> and I am the highest rated competitive programmer in my college.</h2>
+<h3>I'm pursuing Mechanical engineering at <a href="https://www.sonatech.ac.in/" target="_blank"> <img height="30" width = "120" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sona_College_of_Teachnology.jpg"/> </a> and I am the highest rated competitive programmer in my college.</h3>
 
 <ul>
   <li>Competitive programmer @Codechef,Codeforces,Leetcode,Hackerrank,Atcoder.</li>
