@@ -1,5 +1,5 @@
 <h1 align="center"> Hello👋 This is Mouleaswar:exclamation: <br></br>
-<h2 align="center"> Competitive Programmer and open source contributor:computer:</h2>
+<h2 align="center"> Competitive Programmer and Open source contributor:computer:</h2>
 <h2>About me</h2>
 <h4>I'm pursuing Mechanical engineering at <b>SONA College Of Technology</b> and I am the highest rated competitive programmer in my college.</h4>
 <ul>
@@ -32,3 +32,17 @@
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
 <img width="45" height="45" hspace="10" src="https://raw.githubusercontent.com/duythien0912/flutter_zalo_login/master/flutter.jpeg"/>
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>
+
+<h3> <details> <summary> GitHub Stats 	:hourglass_flowing_sand: </summary> <p align="center"> <br> <br> <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M0u1ea5&theme=black-ice&hide_border=true)](https://git.io/streak-stats)"/> </p> </details> </h3>
+
+
+
+
+
+
+
+
+
+
+
+
