@@ -9,6 +9,9 @@
   <li>I have good knowledge in DSAlgo:memo:.</li>
   <li>Learning flutter SDK:iphone: and Data Science:computer:.</li>
 </ul>
+
+---
+
 <h3>Contact Info:telephone:</h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/mouleaswar-shanmugam-747ba11b8/" target="_blank"> <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a></li>
@@ -16,6 +19,7 @@
   <li><a href="https://www.instagram.com/m0u1ea5/" target="_blank"> <img height="30"  src="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png"> </a><img height="26"  src="https://freepngimg.com/thumb/logo/76861-web-instagram-script-typeface-typography-font.png"></li>
 </ul>
 
+---
 
 <h3>Profiles:boy:</h3>
 <a href="https://www.codechef.com/users/mouleas14/" target="_blank"> <img height="35" src="https://user-images.githubusercontent.com/66675130/105477250-9f8d0a80-5cc7-11eb-8e88-9e4ca0122ce4.png"/> </a>
@@ -34,11 +38,17 @@
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
 <img width="45" height="45" hspace="10" src="https://raw.githubusercontent.com/duythien0912/flutter_zalo_login/master/flutter.jpeg"/>
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>
+<img width="45" height="45" hspace="10" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/>
+
 <h3>Github stats:dart:</h3>
+
+---
 
 ![Mouleas's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0u1ea5&show_icons=true&theme=radical)
 
 <h3>Github streaks:hourglass_flowing_sand:</h3>
+
+---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M0u1ea5&theme=gotham)](https://git.io/streak-stats)
 
