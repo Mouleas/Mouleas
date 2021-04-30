@@ -15,3 +15,11 @@
    <li><a href="mailto:warmouleas@gmail.com" target="_blank"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a></li>
   <li><a href="https://www.instagram.com/m0u1ea5/" target="_blank"> <img height="30"  src="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png"> </a><img height="26"  src="https://freepngimg.com/thumb/logo/76861-web-instagram-script-typeface-typography-font.png"></li>
 </ul>
+
+
+<h3>Profiles:boy:</h3>
+<ul>
+  <li><a href="https://www.codechef.com/users/mouleas14/" target="_blank"> <img height="30" src="https://user-images.githubusercontent.com/66675130/105477250-9f8d0a80-5cc7-11eb-8e88-9e4ca0122ce4.png"/> </a></li>
+   <li><a href="mailto:warmouleas@gmail.com" target="_blank"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a></li>
+  <li><a href="https://www.instagram.com/m0u1ea5/" target="_blank"> <img height="30"  src="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png"> </a><img height="26"  src="https://freepngimg.com/thumb/logo/76861-web-instagram-script-typeface-typography-font.png"></li>
+ </ul>
