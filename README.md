@@ -43,6 +43,7 @@
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png"/>
 <img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
 <img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+<img width="45" height="45" hspace="10" src="https://www.clipartmax.com/png/middle/209-2097572_site-for-open-source-synfig-studio-logo.png"/>
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
 <img width="45" height="45" hspace="10" src="https://raw.githubusercontent.com/duythien0912/flutter_zalo_login/master/flutter.jpeg"/>
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>
