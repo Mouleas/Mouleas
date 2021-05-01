@@ -31,8 +31,7 @@
 <a href="https://www.hackerrank.com/heshma27/" target="_blank"> <img height="30" hspace="3" src="http://aommaster.com/blog/wp-content/uploads/2014/07/HackerRankLogo.png"></a>
 <a href="https://atcoder.jp/users/M0u1ea5/" target="_blank"> <img height="30" src="https://user-images.githubusercontent.com/10775915/68087230-18236380-fe97-11e9-88a2-c3fdd265be30.png"></a>
  
- ---
-  
+ --- 
 <h3>Language and tools:hammer_and_wrench:</h3>
 <img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 <img width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
