@@ -25,7 +25,7 @@
 ---
 
 <h3>Profiles:boy:</h3>
-<a href="https://www.codechef.com/users/mouleas14/" target="_blank"> <img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"/> </a>
+<a href="https://www.codechef.com/users/mouleas14/" target="_blank"> <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwFrPCXMOz89OJHj1kijirp0I92tqSdvibpkWs8eW1CCZUP4mVkyu8_5mOEWsntOi_RA8&usqp=CAU"/> </a>
 <a href="https://codeforces.com/profile/M0u1ea5/" target="_blank"> <img height="30" src="https://letmethink.mx/public/pictures/cf-172/codeforces_logo.png"/> </a>
 <a href="https://leetcode.com/M0u1ea5/" target="_blank"> <img height="30" width = "100" src="https://miro.medium.com/max/724/1*izVQIUjPIk1XoqWj3VaiKg.png"/></a>
 <a href="https://www.hackerrank.com/heshma27/" target="_blank"> <img height="30" src="http://aommaster.com/blog/wp-content/uploads/2014/07/HackerRankLogo.png"></a>
