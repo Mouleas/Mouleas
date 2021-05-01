@@ -25,7 +25,7 @@
 ---
 
 <h3>Profiles:boy:</h3>
-<a href="https://www.codechef.com/users/mouleas14/" target="_blank"> <img height="35" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"/> </a><br>
+<a href="https://www.codechef.com/users/mouleas14/" target="_blank"> <img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"/> </a><br>
 
 <a href="https://codeforces.com/profile/M0u1ea5/" target="_blank"> <img height="30" src="https://letmethink.mx/public/pictures/cf-172/codeforces_logo.png"/> </a><br>
   
