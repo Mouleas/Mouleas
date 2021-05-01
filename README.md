@@ -9,7 +9,7 @@
   <li>Competitive programmer @Codechef,Codeforces,Leetcode,Hackerrank,Atcoder.</li>
   <li>Two times winner:trophy: in intra college competitive coding competion.</li>
   <li>Third prize:trophy: in national level animation Hackathon.</li>
-  <li>I have good knowledge in DSAlgo:memo:.</li>
+  <li>Participated more than 100 contests and solved almost 1000 competitive problems:memo:.</li>
   <li>Learning flutter SDK:iphone: and Data Science:computer:.</li>
 </ul>
 
