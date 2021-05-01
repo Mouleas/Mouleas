@@ -26,7 +26,7 @@
 
 <h3>Profiles:boy:</h3>
 <a href="https://www.codechef.com/users/mouleas14/" target="_blank"> <img height="35" src="https://user-images.githubusercontent.com/66675130/105477250-9f8d0a80-5cc7-11eb-8e88-9e4ca0122ce4.png"/> </a><br>
-<a href="https://codeforces.com/profile/M0u1ea5/" target="_blank"> <img height="22" width="135" style="clip-path: rect(10px, 0px, 0px, 0px);" src="https://user-images.githubusercontent.com/66675130/105478796-a7e64500-5cc9-11eb-9ea6-f00d574dd208.png"/> </a>
+<a href="https://codeforces.com/profile/M0u1ea5/" target="_blank"> <img height="22" width="135" style="clip-path: rect(10px, 0px, 0px, 0px);" src="https://user-images.githubusercontent.com/66675130/105478796-a7e64500-5cc9-11eb-9ea6-f00d574dd208.png"/> </a><br>
 <a href="https://leetcode.com/M0u1ea5/" target="_blank"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1024px-LeetCode_Logo_black_with_text.svg.png"/></a><br>
 <a href="https://www.hackerrank.com/heshma27/" target="_blank"> <img height="27" src="https://user-images.githubusercontent.com/66675130/105476483-b121e280-5cc6-11eb-8280-680a10fe2880.png">
  
