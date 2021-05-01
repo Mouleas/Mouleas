@@ -34,8 +34,8 @@
   
 <h3>Language and tools:hammer_and_wrench:</h3>
 
-<img width="45" height="45"  src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-<img width="45" height="45"  src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+<img width="45" height="45"  src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
+<img width="45" height="45"  src="https://cdn.worldvectorlogo.com/logos/c.svg">
 <img width="45" height="45"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png"/>
 <img width="48" height="48"  src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
 <img width="45" height="45"  src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
