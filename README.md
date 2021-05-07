@@ -10,7 +10,9 @@
 
 <ul>
   <li>Competitive programmer @Codechef,Codeforces,Leetcode,Hackerrank,Atcoder.</li>
-  <li>Two times winner:trophy: in intra college competitive coding competion.</li>
+  <li>Highest rated competitive programmer in my college:memo:.</li>
+  <li>Two times winner:trophy: in inter college competitive coding competion.</li>
+  <li>Three times winner:trophy: in intra college competitive coding competition.</li>
   <li>Third prize:trophy: in national level 2D animation Hackathon.</li>
   <li>Participated more than 100 contests and solved almost 1000 competitive problems:memo:.</li>
   <li>Learning flutter SDK:iphone: and Data Science:computer:.</li>
