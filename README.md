@@ -1,5 +1,7 @@
 <h1 align="center"> Hello👋 This is Mouleaswar:exclamation: <br></br>
 
+<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
 ![](https://komarev.com/ghpvc/?username=M0u1ea5&style=flat-square)
 
 <h2 align="center"> Competitive Programmer:bar_chart: and Open source contributor:computer:</h2>
