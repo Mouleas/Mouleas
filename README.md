@@ -53,6 +53,7 @@
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>
 <img width="45" height="45" hspace="10" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/>
  <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"/>
+   <img width="45" height="35" hspace="10" src="https://mpng.subpng.com/20180411/wre/kisspng-mysql-database-web-development-computer-software-dolphin-5ace280ea31a78.1388980015234601106681.jpg"/>
 </p>
 
 
