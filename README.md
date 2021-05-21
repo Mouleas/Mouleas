@@ -12,7 +12,6 @@
 
 <ul>
   <li>Competitive programmer @Codechef,Codeforces,Leetcode,Hackerrank,Atcoder.</li>
-  <li>Highest rated competitive programmer in my college:dart:.</li>
   <li>Two times winner:trophy: in inter college competitive coding competion.</li>
   <li>Three times winner:trophy: in intra college competitive coding competition.</li>
   <li>Third prize:trophy: in national level 2D animation Hackathon.</li>
