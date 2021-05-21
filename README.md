@@ -6,6 +6,7 @@
 
 <h2 align="center"> Competitive Programmer:bar_chart: and App developer:computer:</h2>
 
+<h4 align = "center">
 <img height="50" src="https://cybergeeks.in/content/images/2015/12/about.png"/>
 
 ### I'm a Mechanical engineering student in [SONA college of technology](https://www.sonatech.ac.in/).
@@ -18,6 +19,8 @@
   <li>Participated more than 100 contests and solved almost 1000 competitive problems:memo:.</li>
   <li>Learning flutter SDK:iphone: and Data Science:computer:.</li>
 </ul>
+
+</h4>
 
 ---
 
