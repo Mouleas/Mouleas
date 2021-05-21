@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=M0u1ea5&style=flat-square)
 
-<h2 align="center"> Competitive Programmer:bar_chart: and Open source contributor:computer:</h2>
+<h2 align="center"> Competitive Programmer:bar_chart: and App developer:computer:</h2>
 
 <img height="50" src="https://cybergeeks.in/content/images/2015/12/about.png"/>
 
