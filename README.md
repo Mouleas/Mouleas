@@ -26,7 +26,7 @@
 
 <h3>Contact Info:telephone:</h3>
 <ul>
-        <li><a href="mouleas1410.web.app" target="_blank"> <img height="30"  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.NXdxEsw4LgF5zTI3TTWGnAHaBV%26pid%3DApi&f=1"/> </a>
+        <li><a href="https://mouleas1410.web.app/" target="_blank"> <img height="30"  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.NXdxEsw4LgF5zTI3TTWGnAHaBV%26pid%3DApi&f=1"/> </a>
     <li><a href="mailto:warmouleas@gmail.com" target="_blank"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/> </a></li>
   <li><a href="https://www.linkedin.com/in/mouleaswar-shanmugam-747ba11b8/" target="_blank"> <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a></li>
   <li><a href="https://www.instagram.com/m0u1ea5/" target="_blank"> <img height="30"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/> </a>
