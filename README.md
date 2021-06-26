@@ -17,7 +17,7 @@
   <li>Three times winner:trophy: in intra college competitive coding competition.</li>
   <li>Third prize:trophy: in national level 2D animation Hackathon.</li>
   <li>Participated more than 100 contests and solved almost 1000 competitive problems:memo:.</li>
-  <li>Learning flutter SDK:iphone: and Data Science:computer:.</li>
+  <li>Learning flutter SDK:iphone: and DSAlgo:computer:.</li>
 </ul>
 
 </h4>
