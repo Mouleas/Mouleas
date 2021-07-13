@@ -50,7 +50,7 @@
 <img width="52" height="55" hspace="10" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Fkarengryg.io%2Fwp-content%2Fuploads%2F2018%2F08%2F11112606%2Fjava-logo-e1534012340724.png"/>
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png"/>
-<img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
+<img width="48" height="48" hspace="10" src="https://user-images.githubusercontent.com/74062509/125380624-191cd000-e3b0-11eb-945b-baa2468f7c51.png"/>
 <img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
      <img width="50" height="50" hspace="10" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fde%2Fthumb%2Fd%2Fdd%2FMySQL_logo.svg%2F1280px-MySQL_logo.svg.png"/>
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Synfig_logo.svg/744px-Synfig_logo.svg.png"/>
