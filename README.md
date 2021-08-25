@@ -35,7 +35,7 @@
 
 <h3>Profiles:boy:</h3>
 <a href="https://www.codechef.com/users/mouleas14/" target="_blank"> <img height="30" width="100" hspace="3" src="https://user-images.githubusercontent.com/74062509/116768653-ecfedd80-aa55-11eb-85bc-6dc4469fb3f5.jpg"/> </a>
-<a href="https://codeforces.com/profile/M0u1ea5/" target="_blank"> <img height="30" hspace="2" src="https://letmethink.mx/public/pictures/cf-172/codeforces_logo.png"/> </a>
+<a href="https://codeforces.com/profile/M0u1ea5/" target="_blank"> <img height="30" hspace="2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DoufguaX-CBfO4_O07P6E_t9jSd-1uNDqm8sbk0JjQnG8unILMPY9ZnfigoXohiF8A&usqp=CAU"/> </a>
 <a href="https://leetcode.com/M0u1ea5/" target="_blank"> <img height="30" width = "100" hspace="2" src="https://miro.medium.com/max/724/1*izVQIUjPIk1XoqWj3VaiKg.png"/></a>
 <a href="https://www.hackerrank.com/heshma27/" target="_blank"> <img height="30" hspace="3" src="http://aommaster.com/blog/wp-content/uploads/2014/07/HackerRankLogo.png"></a>
 <a href="https://atcoder.jp/users/M0u1ea5/" target="_blank"> <img height="30" src="https://user-images.githubusercontent.com/10775915/68087230-18236380-fe97-11e9-88a2-c3fdd265be30.png"></a>
