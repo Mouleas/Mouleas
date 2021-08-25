@@ -1,8 +1,6 @@
 <h1 align="center"> Hello👋 This is Mouleaswar:exclamation: <br></br>
 
-<h1 align="center"> <img height="400" width="400" alt="github" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F09%2F3f%2F18%2F093f1861fc92b3a0ba497ece177b27e6.gif&f=1&nofb=1" />
-
-![](https://komarev.com/ghpvc/?username=M0u1ea5&style=flat-square)
+<h1 align="center"> <img height="200" width="200" alt="github" src="https://assets.codeforces.com/images/deltix/EcCsUtwbu1yq6Av.gif" />
 
 <h2 align="center"> Competitive Programmer:bar_chart: and App developer:computer:</h2>
 
