@@ -2,7 +2,7 @@
 
 <h1 align="center"> <img height="200" width="200" alt="github" src="https://assets.codeforces.com/images/deltix/EcCsUtwbu1yq6Av.gif" />
 
-<h2 align="center"> Competitive Programmer:bar_chart: and App developer:computer:</h2>
+<h2 align="center"> Competitive Programmer:bar_chart: and a developer:computer:</h2>
 
 <h4 align = "center">
 <img height="50" src="https://cybergeeks.in/content/images/2015/12/about.png"/>
