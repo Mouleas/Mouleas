@@ -50,7 +50,7 @@
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png"/>
 <img width="48" height="48" hspace="10" src="https://user-images.githubusercontent.com/74062509/125380624-191cd000-e3b0-11eb-945b-baa2468f7c51.png"/>
 <img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
-     <img width="50" height="50" hspace="10" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fde%2Fthumb%2Fd%2Fdd%2FMySQL_logo.svg%2F1280px-MySQL_logo.svg.png"/>
+     <img width="60" height="50" hspace="10" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fde%2Fthumb%2Fd%2Fdd%2FMySQL_logo.svg%2F1280px-MySQL_logo.svg.png"/>
 <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Synfig_logo.svg/744px-Synfig_logo.svg.png"/>
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
 <img width="45" height="45" hspace="10" src="https://raw.githubusercontent.com/duythien0912/flutter_zalo_login/master/flutter.jpeg"/>
@@ -58,6 +58,7 @@
 <img width="45" height="45" hspace="10" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/>
  <img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"/>
  <img width="45" height="60" hspace="10" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2F8c%2F8cdf4c047e99f7389e76aa4e2e7e2803.png&f=1&nofb=1"/>
+  <img width="45" height="45" hspace="10" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2019%2F02%2Fjs-logo-javascript-sdk.png&f=1&nofb=1"/>
 </p>
 
 
