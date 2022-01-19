@@ -2,7 +2,7 @@
 
 <h1 align="center"> <img height="200" width="200" alt="github" src="https://assets.codeforces.com/images/deltix/EcCsUtwbu1yq6Av.gif" />
 
-<h2 align="center"> Competitive Programmer:bar_chart: and a developer:computer:</h2>
+<h2 align="center"> Competitive Programmer:bar_chart: and web developer:computer:</h2>
 
 <h4 align = "center">
 <img height="50" src="https://cybergeeks.in/content/images/2015/12/about.png"/>
@@ -11,11 +11,11 @@
 
 <ul>
   <li>Competitive programmer @Codechef,Codeforces,Leetcode,Hackerrank,Atcoder.</li>
-  <li>Two times winner:trophy: in inter college competitive coding competion.</li>
-  <li>Three times winner:trophy: in intra college competitive coding competition.</li>
+  <li>Two times winner:trophy: in intra college competitive coding competion.</li>
+  <li>Three times winner:trophy: in inter college competitive coding competition.</li>
   <li>Third prize:trophy: in national level 2D animation Hackathon.</li>
   <li>Participated more than 100 contests and solved almost 1000 competitive problems:memo:.</li>
-  <li>Learning flutter SDK:iphone: and DSAlgo:computer:.</li>
+  <li>Learning full stack web development:iphone: and DSAlgo:computer:.</li>
 </ul>
 
 </h4>
