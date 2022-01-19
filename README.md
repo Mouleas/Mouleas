@@ -1,10 +1,9 @@
 <h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hello👋 This is Mouleaswar:exclamation: <br></br>
 
-<h1 align="center"> <img height="200" width="200" alt="github" src="https://assets.codeforces.com/images/deltix/EcCsUtwbu1yq6Av.gif" />
-
+<h1 align="center"> <img height="300" width="430" alt="github" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l0xq3znv798c7rtgx428dhnvyr6jiyp7acdr3lxd&rid=giphy.gif&ct=g" />
 <h2 align="center"> Competitive Programmer:bar_chart: and web developer:computer:</h2>
 
-<h4 align = "center">
+<h4 align = "center" >
 <img height="50" src="https://cybergeeks.in/content/images/2015/12/about.png"/>
 
 ### I'm a Mechanical engineering student in [SONA college of technology](https://www.sonatech.ac.in/).
